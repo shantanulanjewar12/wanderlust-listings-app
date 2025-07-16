@@ -20,61 +20,61 @@ Wanderlust is a modern, full-stack web application inspired by popular accommoda
 ## Screenshots
 
 ### Homepage - All Listings
-
-![Homepage - All Listings 1](/Screenshots/Screenshot1.jpg)
+![Homepage - All Listings 1](/Screenshots/Screenshot1.png)
 *Initial view of all available listings.*
 
-![Homepage - All Listings 2](/Screenshots/Screenshot2.jpg)
+![Homepage - All Listings 2](/Screenshots/Screenshot2.png)
 *Scrolling through more diverse listings.*
 
-![Homepage - Welcome Message](/Screenshots/Screenshot3.jpg)
+![Homepage - Welcome Message](/Screenshots/Screenshot3.png)
 *Welcome message displayed after successful login/signup.*
 
 ### User Authentication
 
-![Sign Up Page - Empty](/Screenshots/Screenshot4.jpg)
+![Sign Up Page - Empty](/Screenshots/Screenshot4.png)
 *The user registration form.*
 
-![Sign Up Page - Filled](/Screenshots/Screenshot5.jpg)
+![Sign Up Page - Filled](/Screenshots/Screenshot5.png)
 *Example of filled sign-up details.*
 
-![Login Page](/Screenshots/Screenshot6.jpg)
+![Login Page](/Screenshots/Screenshot6.png)
 *The user login interface.*
 
 ### Listing Management
 
-![Create New Listing Form - Initial](/Screenshots/Screenshot7.jpg)
+![Create New Listing Form - Initial](/Screenshots/Screenshot7.png)
 *Form for adding a new property listing.*
 
-![Create New Listing Form - Filled](/Screenshots/Screenshot8.jpg)
+![Create New Listing Form - Filled](/Screenshots/Screenshot8.png)
 *New listing form with details entered.*
 
-![Listing Details - View Reviews](/Screenshots/Screenshot9.jpg)
+![Listing Details - View Reviews](/Screenshots/Screenshot9.png)
 *Detailed view of a listing, showcasing existing reviews.*
 
-![Listing Details - Owner Actions](/Screenshots/Screenshot10.jpg)
+![Listing Details - Owner Actions](/Screenshots/Screenshot10.png)
 *Owner's view of a listing, showing Edit and Delete options.*
 
-![Edit Listing Form](/Screenshots/Screenshot11.jpg)
+![Edit Listing Form](/Screenshots/Screenshot11.png)
 *Interface for modifying an existing listing's details.*
 
-![My Listings / Owner View](/Screenshots/Screenshot12.jpg)
+![My Listings / Owner View](/Screenshots/Screenshot12.png)
 *A section showing listings owned by the current user.*
 
-![All Listings - Listing Deleted Confirmation](/Screenshots/Screenshot13.jpg)
+![All Listings - Listing Deleted Confirmation](/Screenshots/Screenshot13.png)
 *Confirmation message after a listing has been successfully deleted.*
 
 ### Review Management
 
-![Add Review Form](/Screenshots/Screenshot14.jpg)
+![Add Review Form](/Screenshots/Screenshot14.png)
 *Form for submitting a review and rating for a listing.*
 
-![Listing Details - Review Created](/Screenshots/Screenshot15.jpg)
+![Listing Details - Review Created](/Screenshots/Screenshot15.png)
 *Confirmation that a new review has been successfully posted.*
 
 ---
 
 ## Folder and File Structure
+```
 Wanderlust Major Project/
 ├── controllers/
 │   ├── listings.js         # Business logic for listing operations
@@ -124,8 +124,7 @@ Wanderlust Major Project/
 ├── package-lock.json       # Records the exact dependency tree
 ├── schema.js               # Joi schema for server-side validation
 └── README.md               # This file
-
-
+```
 ---------
 
 
