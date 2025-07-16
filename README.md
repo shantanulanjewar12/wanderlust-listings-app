@@ -4,7 +4,6 @@
 
 Wanderlust is a modern, full-stack web application inspired by popular accommodation booking platforms like Airbnb. It allows users to explore a diverse range of property listings, create and manage their own listings, and share their experiences through reviews. Built with a focus on user experience and robust functionality, Wanderlust provides a seamless platform for both hosts and travelers.
 
-**Live Demo:** (If you have a deployed version, add the link here, e.g., `[Wanderlust Live Demo](https://your-deployed-url.com)`)
 
 ## Features
 
